@@ -1,4 +1,4 @@
-![image](https://github.com/kushal9094/currencyconvertor/assets/170698082/f2a0b68e-d324-4df1-b5f6-fca4004fb9ec)This repository contains a simple currency converter web application built using HTML, CSS, and vanilla JavaScript. 
+This repository contains a simple currency converter web application built using HTML, CSS, and vanilla JavaScript. 
 The application allows users to convert between different currencies based on the latest exchange rates fetched from an external API.
 
 Features:
@@ -22,8 +22,6 @@ Open the index.html file in a web browser.
 External Resources:
 Font Awesome: Used for icons.
 Flags API: Used to display flags of different countries.
-Credits:
-This project is inspired by [insert inspiration/source here, if any].
 
 License:
-[Choose license or specify if it's open-source]
+open-source
